@@ -1,1 +1,0 @@
-ALTER TABLE pokemon ADD COLUMN if NOT EXISTS hp INT;
